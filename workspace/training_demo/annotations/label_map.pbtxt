@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: '1 dollar'
+}
+
+item {
+    id: 2
+    name: '5 dollar'
+}
+
+item {
+    id: 3
+    name: '10 dollar'
+}
+
+item {
+    id: 4
+    name: '50 dollar'
+}
