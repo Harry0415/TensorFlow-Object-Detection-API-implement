@@ -2,4 +2,4 @@
 
 Using Python in Eclipse.
 
-Demo video: 
+Demo video: https://youtu.be/INXc_dwwAeA
